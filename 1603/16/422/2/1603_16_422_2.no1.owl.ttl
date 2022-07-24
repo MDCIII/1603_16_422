@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بيروت"@ara-Arab ,
         "Beirut"@eng-Latn ;
-    wdata:q7200235 "LB11" ;
+    wdata:Q7200235 "LB11" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -76,7 +76,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بعلبك"@ara-Arab ,
         "Baalbek"@eng-Latn ;
-    wdata:q7200235 "LB21" ;
+    wdata:Q7200235 "LB21" ;
 .
 
 <urn:mdciii:1603:16:422:2:22>
@@ -90,7 +90,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الهرمل"@ara-Arab ,
         "El Hermel"@eng-Latn ;
-    wdata:q7200235 "LB22" ;
+    wdata:Q7200235 "LB22" ;
 .
 
 <urn:mdciii:1603:16:422:2:23>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "راشيا"@ara-Arab ,
         "Rachaya"@eng-Latn ;
-    wdata:q7200235 "LB23" ;
+    wdata:Q7200235 "LB23" ;
 .
 
 <urn:mdciii:1603:16:422:2:24>
@@ -118,7 +118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البقاع الغربي"@ara-Arab ,
         "West Bekaa"@eng-Latn ;
-    wdata:q7200235 "LB24" ;
+    wdata:Q7200235 "LB24" ;
 .
 
 <urn:mdciii:1603:16:422:2:25>
@@ -132,7 +132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "زحلة"@ara-Arab ,
         "Zahle"@eng-Latn ;
-    wdata:q7200235 "LB25" ;
+    wdata:Q7200235 "LB25" ;
 .
 
 <urn:mdciii:1603:16:422:2:31>
@@ -146,7 +146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "عاليه"@ara-Arab ,
         "Aley"@eng-Latn ;
-    wdata:q7200235 "LB31" ;
+    wdata:Q7200235 "LB31" ;
 .
 
 <urn:mdciii:1603:16:422:2:32>
@@ -160,7 +160,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بعبدا"@ara-Arab ,
         "Baabda"@eng-Latn ;
-    wdata:q7200235 "LB32" ;
+    wdata:Q7200235 "LB32" ;
 .
 
 <urn:mdciii:1603:16:422:2:33>
@@ -174,7 +174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشوف"@ara-Arab ,
         "Chouf"@eng-Latn ;
-    wdata:q7200235 "LB33" ;
+    wdata:Q7200235 "LB33" ;
 .
 
 <urn:mdciii:1603:16:422:2:34>
@@ -188,7 +188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جبيل"@ara-Arab ,
         "Jbeil"@eng-Latn ;
-    wdata:q7200235 "LB34" ;
+    wdata:Q7200235 "LB34" ;
 .
 
 <urn:mdciii:1603:16:422:2:35>
@@ -202,7 +202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كسروان"@ara-Arab ,
         "Kesrwane"@eng-Latn ;
-    wdata:q7200235 "LB35" ;
+    wdata:Q7200235 "LB35" ;
 .
 
 <urn:mdciii:1603:16:422:2:36>
@@ -216,7 +216,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المتن"@ara-Arab ,
         "El Meten"@eng-Latn ;
-    wdata:q7200235 "LB36" ;
+    wdata:Q7200235 "LB36" ;
 .
 
 <urn:mdciii:1603:16:422:2:41>
@@ -230,7 +230,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بنت جبيل"@ara-Arab ,
         "Bent Jbeil"@eng-Latn ;
-    wdata:q7200235 "LB41" ;
+    wdata:Q7200235 "LB41" ;
 .
 
 <urn:mdciii:1603:16:422:2:42>
@@ -244,7 +244,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "حاصبيا"@ara-Arab ,
         "Hasbaya"@eng-Latn ;
-    wdata:q7200235 "LB42" ;
+    wdata:Q7200235 "LB42" ;
 .
 
 <urn:mdciii:1603:16:422:2:43>
@@ -258,7 +258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مرجعيون"@ara-Arab ,
         "Marjaayoun"@eng-Latn ;
-    wdata:q7200235 "LB43" ;
+    wdata:Q7200235 "LB43" ;
 .
 
 <urn:mdciii:1603:16:422:2:44>
@@ -272,7 +272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النبطية"@ara-Arab ,
         "El Nabatieh"@eng-Latn ;
-    wdata:q7200235 "LB44" ;
+    wdata:Q7200235 "LB44" ;
 .
 
 <urn:mdciii:1603:16:422:2:51>
@@ -286,7 +286,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "عكار"@ara-Arab ,
         "Akkar"@eng-Latn ;
-    wdata:q7200235 "LB51" ;
+    wdata:Q7200235 "LB51" ;
 .
 
 <urn:mdciii:1603:16:422:2:52>
@@ -300,7 +300,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البترون"@ara-Arab ,
         "El Batroun"@eng-Latn ;
-    wdata:q7200235 "LB52" ;
+    wdata:Q7200235 "LB52" ;
 .
 
 <urn:mdciii:1603:16:422:2:53>
@@ -314,7 +314,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بشري"@ara-Arab ,
         "Bcharre"@eng-Latn ;
-    wdata:q7200235 "LB53" ;
+    wdata:Q7200235 "LB53" ;
 .
 
 <urn:mdciii:1603:16:422:2:54>
@@ -328,7 +328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الكورة"@ara-Arab ,
         "El Koura"@eng-Latn ;
-    wdata:q7200235 "LB54" ;
+    wdata:Q7200235 "LB54" ;
 .
 
 <urn:mdciii:1603:16:422:2:55>
@@ -342,7 +342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المنية الضنية"@ara-Arab ,
         "El Minieh-Dennie"@eng-Latn ;
-    wdata:q7200235 "LB55" ;
+    wdata:Q7200235 "LB55" ;
 .
 
 <urn:mdciii:1603:16:422:2:56>
@@ -356,7 +356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "طرابلس"@ara-Arab ,
         "Tripoli"@eng-Latn ;
-    wdata:q7200235 "LB56" ;
+    wdata:Q7200235 "LB56" ;
 .
 
 <urn:mdciii:1603:16:422:2:57>
@@ -370,7 +370,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "زغرتا"@ara-Arab ,
         "Zgharta"@eng-Latn ;
-    wdata:q7200235 "LB57" ;
+    wdata:Q7200235 "LB57" ;
 .
 
 <urn:mdciii:1603:16:422:2:61>
@@ -384,7 +384,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "صيدا"@ara-Arab ,
         "Saida"@eng-Latn ;
-    wdata:q7200235 "LB61" ;
+    wdata:Q7200235 "LB61" ;
 .
 
 <urn:mdciii:1603:16:422:2:62>
@@ -398,7 +398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جزين"@ara-Arab ,
         "Jezzine"@eng-Latn ;
-    wdata:q7200235 "LB62" ;
+    wdata:Q7200235 "LB62" ;
 .
 
 <urn:mdciii:1603:16:422:2:63>
@@ -412,6 +412,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "صور"@ara-Arab ,
         "Sour"@eng-Latn ;
-    wdata:q7200235 "LB63" ;
+    wdata:Q7200235 "LB63" ;
 .
 
